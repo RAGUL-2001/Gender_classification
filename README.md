@@ -1,0 +1,1 @@
+This project focuses on building a gender classification model using facial geometry-based features. The dataset includes measurements such as forehead width and height, nose shape, lip thickness, and hair length. The goal is to predict gender (Male or Female) using supervised machine learning techniques.
